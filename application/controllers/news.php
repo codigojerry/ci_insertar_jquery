@@ -39,7 +39,7 @@ class News extends CI_Controller {
 	{
 
 		$this->news_model->set_news();
-		echo 'insertado correctmanete';
+		echo 'Insertado correctamente';
 
 	}
 
